@@ -16,7 +16,7 @@ Bash
 
 # Clone the repository
 
-git clone https://github.com/yourusername/bank-system-ui.git
+git clone https://github.com/AydinHabibi1991/BankUI.git
 
 # Navigate to project directory
 
